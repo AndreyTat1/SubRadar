@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.SubRadar" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowBackground">#151220</item>
+        <item name="colorAccent">#BBA2FF</item>
+    </style>
+</resources>
